@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Welcome to my Github!
+If you want to contact me, reach me on Twitter @mohammadshikha
 <!--
 **owen97779/owen97779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
