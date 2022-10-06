@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my Github!
-If you want to contact me, reach me on Twitter @mohammadshikha
+If you want to contact me, reach me on Twitter [@mohammadshikha](https://twitter.com/mohammadshikha "My Twitter")
 
 My personal blog with all my projects, theories and papers can be seen on https://owen97779.github.io
 <!--
