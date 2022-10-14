@@ -2,7 +2,7 @@
 Welcome to my Github!
 If you want to contact me, reach me on Twitter [@mohammadshikha](https://twitter.com/mohammadshikha "My Twitter")
 
-My personal blog with all my projects, theories and papers can be seen on https://owen97779.github.io
+My personal blog with all my projects, theories and papers can be seen on https://mohammadshikha.me
 <!--
 **owen97779/owen97779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
